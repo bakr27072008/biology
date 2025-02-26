@@ -1,0 +1,25 @@
+body {
+ background-color:azure;
+    text-align: center;
+}
+h1 {
+    color:blue;
+    text-align:center;
+}
+img {
+    width: 200px;
+    height: 300px;
+
+}
+p {
+    width: 50%;
+    margin: auto;
+}
+#bakr {
+    width: 200px;
+    height: 300px;
+}
+#bakr2 {
+    width: 200;
+    height: 300;
+}
